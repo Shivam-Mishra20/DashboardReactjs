@@ -1,0 +1,27 @@
+ /* Custom class for the Swal image */
+ .my-custom-image {
+     border-radius: 10px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+ }
+
+ /* Custom class for the Swal container */
+ .my-custom-swal {
+     background-color: #8b8b8b;
+     border-radius: 15px;
+ }
+
+ /* Custom class for the Swal title */
+ .my-custom-title {
+     font-family: 'Arial', sans-serif;
+     color: #333;
+ }
+
+ /* Custom class for the Swal text */
+ .my-custom-text {
+     font-family: 'Verdana', sans-serif;
+     color: #555;
+ }
+
+ .pdall {
+     padding: 10px;
+ }
